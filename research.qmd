@@ -1,0 +1,32 @@
+---
+title: "Research | Gwen Ahn"
+page-layout: full
+---
+```{=html}
+<div class="site-shell">
+<section class="page-intro"><div class="eyebrow">Research</div><h1>Research</h1><p class="lead">My research examines what drives consumer choice and how consumer valuations and choices evolve over time. Drawing on individual-level longitudinal choice data and quantitative modeling, I study these questions in settings where experiential aspects play an important role, including live performances, charitable giving, and aesthetic product design.</p></section>
+<section class="content-section"><h2 class="subsection-heading">Manuscripts under review</h2>
+<article class="research-entry">
+  <span class="entry-number">01</span>
+  <div>
+    <h3 class="entry-title">Customizing Bundles of Experiential Goods: An Application to Performing Arts Ticket Sales</h3>
+    <p class="entry-authors">
+      with Eric Schwartz and Fred Feinberg
+      &nbsp;&middot;&nbsp;
+      <a href="https://www.dropbox.com/scl/fi/5rtzil664ib4hyb0khv69/Customizing-Bundles-of-Experiential-Goods_October2026.pdf?rlkey=ipe2bib7w72dfsyi358u3fqth&amp;dl=0"
+         target="_blank"
+         rel="noopener noreferrer">PDF</a>
+    </p>
+  </div>
+  <div class="entry-status">
+    Revised manuscript under review at <em>Marketing Science</em>
+  </div>
+</article>
+
+<article class="research-entry"><span class="entry-number">02</span><div><h3 class="entry-title">Interpretable Multimodal Forecasting and Generative Design for Dynamic Aesthetic Value</h3><p class="entry-authors">with Daehyuk Bu, Kee Yeun Lee, and Fred Feinberg</p></div><div class="entry-status">Major revision at <em>Production and Operations Management</em></div></article></section>
+<section class="content-section"><h2 class="subsection-heading">Working papers &amp; research in progress</h2>
+<article class="research-entry"><span class="entry-number">03</span><div><h3 class="entry-title">Measuring the Effectiveness of Scale Changes in Charitable Donations</h3><p class="entry-authors">with Kee Yeun Lee, Arnaud De Bruyn, and Fred Feinberg</p></div><div class="entry-status"></div></article>
+<article class="research-entry"><span class="entry-number">04</span><div><h3 class="entry-title">Cross-channel Price and Inventory Optimization for Live Events: An Application to NFL Ticket Purchases</h3><p class="entry-authors">with Fred Feinberg and Pete Fader</p></div><div class="entry-status"></div></article>
+<article class="research-entry"><span class="entry-number">05</span><div><h3 class="entry-title">Predicting Commitment: Leveraging Donation Histories to Incent “Subscription” to Charitable Giving</h3><p class="entry-authors">with Fred Feinberg and Jen Shang</p></div><div class="entry-status"></div></article></section>
+</div>
+```

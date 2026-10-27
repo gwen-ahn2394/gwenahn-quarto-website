@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/Gwen_Ahn_CV.pdf
+    - assets/headshot.jpg
+
+website:
+  title: "Gwen Ahn"
+  description: "Gwen Ahn is an Assistant Professor of Marketing at the Leeds School of Business, University of Colorado Boulder."
+  site-url: "https://gwenahn.com"
+  navbar:
+    background: light
+    search: false
+    right:
+      - text: About
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: assets/Gwen_Ahn_CV.pdf
+  page-footer:
+    left: "Gwen Ahn · Leeds School of Business · University of Colorado Boulder"
+    right: "[gwen.ahn@colorado.edu](mailto:gwen.ahn@colorado.edu)"
+  open-graph: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    fontsize: 1rem

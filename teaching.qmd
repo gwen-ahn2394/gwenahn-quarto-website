@@ -1,0 +1,14 @@
+---
+title: "Teaching | Gwen Ahn"
+page-layout: full
+---
+```{=html}
+<div class="site-shell">
+<section class="page-intro"><div class="eyebrow">Teaching</div><h1>Teaching</h1><p class="lead">Courses taught at the University of Colorado Boulder and the University of Michigan.</p></section>
+<section class="content-section"><h2 class="subsection-heading">Courses</h2>
+<div class="teaching-entry"><div><h3>Customer Analytics</h3><p>Undergraduate · University of Colorado Boulder</p></div><span class="years">2024–2026</span></div>
+<div class="teaching-entry"><div><h3>Customer Analytics</h3><p>Master of Business Analytics · University of Colorado Boulder</p></div><span class="years">2024</span></div>
+<div class="teaching-entry"><div><h3>Marketing Management</h3><p>Undergraduate · University of Michigan</p></div><span class="years">2019</span></div>
+</section>
+</div>
+```
